@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+theme: minima
+
+title: Solution Assurance Process Vision Global
+author: Katarina Nikolic
+email: kn250140@ncr.com
+description: 
+  Vision System Management improvement program, we are instituting a mandatory requirement 
+  to apply the Solution Assurance Process for all new Vision opportunities regardless of size. 
+  Vision projects will also be tracked and reported to leadership going forward. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+teams: [Global Vision Projects and Forms](https://ncr.sharepoint.com/sites/VisionGlobalCoEPSTeam/SitePages/Vision-Global-Projects-and-Forms.aspx).
+sharepoint:  [Vision System Management Improvement Program](https://ncr.sharepoint.com/sites/VisionGlobalCoEPSTeam/SitePages/Vision-Global-Projects-and-Forms.aspx).
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true # Vision System Management Improvement Program
