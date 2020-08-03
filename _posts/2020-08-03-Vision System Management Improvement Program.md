@@ -1,4 +1,4 @@
-title: # Vision System Improvement Program
+title: Vision System Improvement Program
 date: 2020-08-03
 
 The PS and Solution Assurance teams are working together to streamline this specific process for Vision opportunities and have created a centralized repository to house the forms and tools in support of the Vision opportunity qualification and deployment cycles.   
